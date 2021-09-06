@@ -1,0 +1,1 @@
+exercícios de javascript feitos durante o curso da gama academy
